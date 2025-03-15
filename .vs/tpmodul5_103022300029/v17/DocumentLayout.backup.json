@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B7A38A8-2089-46B1-B317-9903894C2224}|tpmodul5_103022300029\\tpmodul5_103022300029.csproj|d:\\kpl\\tpmodul5_103022300029\\tpmodul5_103022300029\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B7A38A8-2089-46B1-B317-9903894C2224}|tpmodul5_103022300029\\tpmodul5_103022300029.csproj|solutionrelative:tpmodul5_103022300029\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7A38A8-2089-46B1-B317-9903894C2224}|tpmodul5_103022300029\\tpmodul5_103022300029.csproj|d:\\kpl\\tpmodul5_103022300029\\tpmodul5_103022300029\\tpmodul5_103022300029.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B7A38A8-2089-46B1-B317-9903894C2224}|tpmodul5_103022300029\\tpmodul5_103022300029.csproj|solutionrelative:tpmodul5_103022300029\\tpmodul5_103022300029.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tpmodul5_103022300029.csproj",
+              "DocumentMoniker": "D:\\Kpl\\tpmodul5_103022300029\\tpmodul5_103022300029\\tpmodul5_103022300029.csproj",
+              "RelativeDocumentMoniker": "tpmodul5_103022300029\\tpmodul5_103022300029.csproj",
+              "ToolTip": "D:\\Kpl\\tpmodul5_103022300029\\tpmodul5_103022300029\\tpmodul5_103022300029.csproj",
+              "RelativeToolTip": "tpmodul5_103022300029\\tpmodul5_103022300029.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T17:27:57.717Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,11 @@
               "RelativeDocumentMoniker": "tpmodul5_103022300029\\Program.cs",
               "ToolTip": "D:\\Kpl\\tpmodul5_103022300029\\tpmodul5_103022300029\\Program.cs",
               "RelativeToolTip": "tpmodul5_103022300029\\Program.cs",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAALAAAAAAAAAA==",
+=======
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+>>>>>>> origin/main
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T17:14:44.096Z",
               "EditorCaption": ""
