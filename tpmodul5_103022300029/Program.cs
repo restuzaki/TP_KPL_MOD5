@@ -4,6 +4,7 @@
     {
         HaloGeneric nama = new HaloGeneric();
         nama.sapaUser<string>("Damai");
+<<<<<<< HEAD
         DataGeneric<string> nim = new DataGeneric<string>("103022300029");
         nim.printData();
     }
@@ -21,6 +22,8 @@ class DataGeneric<T>
     public void printData()
     {
         Console.WriteLine($"Data yang tersimpan adalah: {data}");
+=======
+>>>>>>> origin/main
     }
 }
 
